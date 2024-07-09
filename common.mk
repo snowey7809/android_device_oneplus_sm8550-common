@@ -410,6 +410,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.frameworks.sensorservice@1.0.vendor \
     android.hardware.sensors-service.multihal \
+    libdumpstateutil.vendor \
     libsensorndkbridge \
     sensors.dynamic_sensor_hal \
     sensors.oplus
